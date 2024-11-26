@@ -62,7 +62,7 @@ function defaultSum(a = 0, b = 0) {
 defaultSum()
 defaultSum(5)
 defaultSum(5, 10)
-//defaultSum(b = 5)
+defaultSum(b = 5)
 
 // Retorno de valores
 
