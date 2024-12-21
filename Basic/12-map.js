@@ -16,7 +16,7 @@ console.log(myMap)
 myMap = new Map([
     ["name", "Brais"],
     ["email", "braismoure@mouredev.com"],
-    ["age", 37]
+    ["age", 37],
 ])
 
 console.log(myMap)
@@ -61,6 +61,3 @@ console.log(myMap.size)
 myMap.clear()
 
 console.log(myMap)
-
-
-

@@ -41,12 +41,19 @@ do {
 
 let myArray = [1, 2, 3, 4]
 
-let mySet = new Set(["Brais", "Moure", "mouredev", 37, true, "braismoure@mouredev.com"])
+let mySet = new Set([
+    "Brais",
+    "Moure",
+    "mouredev",
+    37,
+    true,
+    "braismoure@mouredev.com",
+])
 
 let myMap = new Map([
     ["name", "Brais"],
     ["email", "braismoure@mouredev.com"],
-    ["age", 37]
+    ["age", 37],
 ])
 
 let myString = "¡Hola, JavaScript!"
